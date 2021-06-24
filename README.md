@@ -1,0 +1,1 @@
+# hackintosh-lenovo-m730q
